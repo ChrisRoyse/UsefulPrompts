@@ -183,7 +183,7 @@ LEVEL REQUIREMENT: [Minimum level required]
 BASE XP VALUE: [50-200 based on complexity]
 POTENTIAL BADGES: [List of achievable badges]
 COMPLEXITY MULTIPLIER: [1.0x - 2.5x]
-ESTIMATED TOKENS: [X]/128,000
+ESTIMATED TOKENS: [X]/90,000
 DEPENDENCIES: [Required preceding tasks]
 BLOCKS: [Tasks waiting on this completion]
 PRIORITY: [Critical/High/Medium/Low]
